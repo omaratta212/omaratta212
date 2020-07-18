@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **omaratta212/omaratta212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I write JavaScript
-![Driving Phoebe Buffay GIF](https://i.giphy.com/q3Zxb6mxoik5G.gif)
+
+![Welocme](https://i.giphy.com/xUOxf9EI2iTP9tl9Yc.gif)
