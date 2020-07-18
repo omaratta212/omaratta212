@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welocme](./friends.gif)
+![Welocme](https://raw.githubusercontent.com/omaratta212/omaratta212/master/friends.gif)
