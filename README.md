@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welocme](https://i.giphy.com/xUOxf9EI2iTP9tl9Yc.gif)
+![Welocme](./friends.gif)
