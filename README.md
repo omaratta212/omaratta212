@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welocme](https://raw.githubusercontent.com/omaratta212/omaratta212/master/friends.gif)
+![Hello, I'm Omar Atta](https://github.com/omaratta212/omaratta212/blob/master/Hello,%20I'm%20Omar%20Atta..jpg?raw=true)
