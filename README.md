@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello, I'm Omar Atta](https://github.com/omaratta212/omaratta212/blob/master/Hello,%20I'm%20Omar%20Atta.%20Nice%20to%20meet%20you..png?raw=true)
+![Hello, I'm Omar Atta](https://github.com/omaratta212/omaratta212/blob/master/Hello,%20I'm%20Omar%20Atta.%20Nice%20to%20meet%20you.%20(1).png?raw=true)
